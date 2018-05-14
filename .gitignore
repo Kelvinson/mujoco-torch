@@ -36,3 +36,4 @@
 *.swp
 *.swo
 */*/config.py
+docker/mjkey.txt
